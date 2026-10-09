@@ -30,4 +30,4 @@ Number OCR: Upscaling 2x -> Gaussian Blur -> Otsu Thresholding -> Pytesseract (-
 
 Signature Verification: Inverse Otsu Thresholding -> Morphological Closing -> Ink Density Threshold > 1.5%.
 
-"Untuk melihat detail hasil output dari 9 citra uji dan analisis metodenya, ada di 
+"Untuk melihat detail hasil output dari 9 citra uji dan analisis metodenya, ada di Hasil.Md
